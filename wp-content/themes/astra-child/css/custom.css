@@ -12,11 +12,6 @@
 	padding: 0;
 }
 
-.testimonial-home .wpmslider-viewport {
-	height: 380.406px !important;
-    padding: 10px;
-}
-
 .testimonial-home .testimonial {
 	box-shadow: 0px 0rem 1rem 0px rgba(0, 0, 0, .15);
 	border-radius: 12px;
@@ -32,7 +27,7 @@
 	-webkit-box-orient: vertical;
 	overflow: hidden;
 	text-overflow: ellipsis;
-	min-height: 62px;
+	min-height: 57px;
 	margin-bottom: 8px;
 	text-align: center;
 	font-size: 22px;
@@ -49,11 +44,65 @@
 }
 
 .testimonial-home .testimonial .testimonial-content p {
-	min-height: 80px;
-	text-align: center;
+	overflow: hidden;
+    text-overflow: ellipsis;
+    -webkit-line-clamp: 3;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    min-height: 80px;
+	margin-bottom: 8px;
 }
 
-.elementor-shortcode .strong-view.controls-style-buttons:not(.rtl) .wpmslider-prev:before,
-.elementor-shortcode .strong-view.controls-style-buttons:not(.rtl) .wpmslider-next:before {
+.testimonial-home.strong-view.controls-style-buttons:not(.rtl)  .wpmslider-prev:before,
+.testimonial-home.strong-view.controls-style-buttons:not(.rtl) .wpmslider-next:before {
 	background: #000;
+}
+
+.testimonial-home.strong-view.pager-style-buttons .wpmslider-pager {
+	display: flex;
+	justify-content: center;
+	gap: 6px;
+	line-height: normal;
+}
+
+.testimonial-home.strong-view.pager-style-buttons .wpmslider-pager-link.active:before,
+.testimonial-home.strong-view.pager-style-buttons .wpmslider-pager-link:before,
+.testimonial-home.strong-view.pager-style-buttons .wpmslider-pager-link.active:before {
+	width: 6px;
+    height: 6px;
+	-webkit-mask: unset;
+    mask: unset;
+	border-radius: 50%;
+}
+
+.testimonial-home.strong-view .wpmslider-controls a {
+	padding: 2px 5px;
+}
+
+.testimonial-home.strong-view.pager-style-buttons .wpmslider-pager-link.active:before {
+	background-color: #000;
+}
+
+@media (min-width: 912px) {
+	#masthead .site-header-primary-section-right .ast-builder-button-wrap {
+		min-width: 122px;
+	}
+}
+
+@media (min-width: 767px) {
+	.testimonial-home.strong-view .wpmslider-pager {
+		display: none;
+	}
+}
+
+@media (max-width: 920px) {
+	.testimonial-home .testimonial .testimonial-content p {
+		min-height: 72px;
+	}
+}
+
+@media (max-width: 767px) {
+	.testimonial-home.strong-view .wpmslider-controls-direction {
+		display: none;
+	}
 }
