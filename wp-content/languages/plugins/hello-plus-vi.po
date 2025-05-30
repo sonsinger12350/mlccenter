@@ -1,0 +1,2170 @@
+# Translation of Plugins - Hello Plus - Stable (latest release) in Vietnamese
+# This file is distributed under the same license as the Plugins - Hello Plus - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-04-24 02:39:38+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Plugins - Hello Plus - Stable (latest release)\n"
+
+#: modules/template-parts/widgets/ehp-widget-base.php:371
+#: modules/template-parts/widgets/ehp-widget-base.php:392
+msgid "Transition Duration (s)"
+msgstr "Thời gian chuyển tiếp (s)"
+
+#: modules/forms/widgets/ehp-form.php:1003
+msgid "Form Position"
+msgstr "Vị trí biểu mẫu"
+
+#: modules/forms/widgets/ehp-form.php:983
+msgid "Reverse Structure"
+msgstr "Cấu trúc đảo ngược"
+
+#: modules/forms/widgets/ehp-form.php:965
+msgid "25:75"
+msgstr "25:75"
+
+#: modules/forms/widgets/ehp-form.php:960
+msgid "33:66"
+msgstr "33:66"
+
+#: modules/forms/widgets/ehp-form.php:955
+msgid "50:50"
+msgstr "50:50"
+
+#: modules/forms/widgets/ehp-form.php:947
+msgid "Column Structure"
+msgstr "Cấu trúc cột"
+
+#: modules/content/widgets/zig-zag.php:1017
+msgid "Horizontal Padding"
+msgstr "Khoảng cách ngang"
+
+#: modules/content/widgets/zig-zag.php:757
+msgid "Description Color"
+msgstr "Màu mô tả"
+
+#: modules/content/widgets/zig-zag.php:743
+msgid "Heading Color"
+msgstr "Màu tiêu đề"
+
+#: modules/content/widgets/zig-zag.php:723
+msgid "Alternate Row Style"
+msgstr "Kiểu hàng xen kẽ"
+
+#: modules/template-parts/documents/ehp-document-base.php:214
+msgid "Error: multiple %s published"
+msgstr "Lỗi: nhiều %s đã được xuất bản"
+
+#. translators: %s: Widget Name (e.g. "Hello+ Header").
+#: modules/template-parts/documents/ehp-document-base.php:197
+msgid "Please notice! Your site allows only one %s at a time. Please move one to ‘Draft’"
+msgstr "Vui lòng lưu ý! Trang web của bạn chỉ cho phép một %s tại một thời điểm. Vui lòng chuyển một mục sang ‘Bản nháp’"
+
+#: modules/forms/widgets/ehp-form.php:922
+msgid "Save Submissions"
+msgstr "Lưu bài gửi"
+
+#: modules/forms/module.php:100 modules/forms/module.php:103
+msgid "Upgrade"
+msgstr "Nâng cấp"
+
+#: modules/forms/module.php:99
+msgid "Unlock form submissions by upgrading to Elementor Pro on an eligible plan."
+msgstr "Mở khóa bài gửi biểu mẫu bằng cách nâng cấp lên Elementor Pro trên gói đủ điều kiện."
+
+#: modules/forms/module.php:98 modules/forms/widgets/ehp-form.php:914
+msgid "Collect Submissions"
+msgstr "Thu thập bài gửi"
+
+#: modules/content/widgets/contact.php:1497
+msgid "Zoom"
+msgstr "Thu phóng"
+
+#: modules/content/widgets/contact.php:1244
+#: modules/content/widgets/contact.php:1401
+msgid "Icon Gap"
+msgstr "Khoảng cách biểu tượng"
+
+#: modules/content/widgets/contact.php:852
+#: modules/content/widgets/contact.php:879
+msgid "Map Position"
+msgstr "Vị trí bản đồ"
+
+#: modules/content/widgets/contact.php:830
+msgid "Gaps"
+msgstr "Khoảng cách"
+
+#: modules/content/widgets/contact.php:790
+#: modules/content/widgets/contact.php:813
+msgid "4"
+msgstr "4"
+
+#: modules/content/widgets/contact.php:789
+#: modules/content/widgets/contact.php:812
+msgid "3"
+msgstr "3"
+
+#: modules/content/widgets/contact.php:788
+#: modules/content/widgets/contact.php:811
+msgid "2"
+msgstr "2"
+
+#: modules/content/widgets/contact.php:787
+#: modules/content/widgets/contact.php:810
+msgid "1"
+msgstr "1"
+
+#: modules/content/widgets/contact.php:784
+#: modules/content/widgets/contact.php:807
+msgid "Columns"
+msgstr "Cột"
+
+#: modules/content/widgets/contact.php:566
+msgid "Enter your URL"
+msgstr "Nhập URL của bạn"
+
+#: modules/content/widgets/contact.php:500
+msgid "M-F 9am-6pm"
+msgstr "Thứ 2-6, 9 giờ sáng - 6 giờ chiều"
+
+#: modules/content/widgets/contact.php:464
+msgid "Links"
+msgstr "Liên kết"
+
+#: modules/content/widgets/contact.php:415
+#: modules/content/widgets/contact.php:434
+msgid "Call"
+msgstr "Gọi"
+
+#: modules/content/widgets/contact.php:391
+#: modules/content/widgets/contact.php:518
+msgid "Follow"
+msgstr "Theo dõi"
+
+#: modules/content/widgets/contact.php:389
+#: modules/content/widgets/contact.php:484
+msgid "Hours"
+msgstr "Giờ làm việc"
+
+#: modules/content/widgets/contact.php:388
+msgid "Let's talk"
+msgstr "Hãy cùng trao đổi"
+
+#: modules/content/widgets/contact.php:370
+#: modules/content/widgets/contact.php:1080
+msgid "Contact Links"
+msgstr "Liên kết liên hệ"
+
+#: modules/content/widgets/contact.php:338
+#: modules/content/widgets/contact.php:346
+msgid "Group %d"
+msgstr "Nhóm %d"
+
+#: modules/content/widgets/contact.php:309
+msgid "Location"
+msgstr "Vị trí"
+
+#: modules/content/widgets/contact.php:305
+msgid "London Eye, London, United Kingdom"
+msgstr "London Eye, London, Vương quốc Anh"
+
+#. translators: 1: Integration settings link open tag, 2: Create API key link
+#. open tag, 3: Link close tag.
+#: modules/content/widgets/contact.php:295
+msgid "Set your Google Maps API Key in Elementor's %1$sIntegrations Settings%3$s page. Create your key %2$shere.%3$s"
+msgstr "Đặt khóa API Google Maps của bạn trong trang %1$sCài đặt tích hợp%3$s của Elementor. Tạo khóa của bạn %2$stại đây.%3$s"
+
+#: modules/content/widgets/contact.php:251
+msgid "Subheading HTML Tag"
+msgstr "Thẻ HTML phụ đề"
+
+#: modules/content/widgets/contact.php:235
+#: modules/content/widgets/contact.php:772
+#: modules/content/widgets/contact.php:1014
+msgid "Contact Details"
+msgstr "Thông tin liên hệ"
+
+#: modules/content/widgets/contact.php:200
+msgid "Have questions or ready to take the next step? Reach out to us—we're here to help with your fitness journey. Whether you're looking for guidance, scheduling a session, or just want more information, we've got you covered."
+msgstr "Có câu hỏi hoặc sẵn sàng tiến tới bước tiếp theo? Hãy liên hệ với chúng tôi—chúng tôi luôn sẵn sàng hỗ trợ hành trình thể dục của bạn. Cho dù bạn đang tìm kiếm sự hướng dẫn, lên lịch một buổi học, hoặc chỉ muốn thêm thông tin, chúng tôi đều hỗ trợ bạn."
+
+#: classes/ehp-social-platforms.php:315
+msgid "https://"
+msgstr "https://"
+
+#: modules/template-parts/documents/ehp-document-base.php:221
+msgid "Active %s"
+msgstr "%s đang hoạt động"
+
+#. translators: %s: Widget Name (e.g. "Hello+ Header").
+#: modules/template-parts/documents/ehp-document-base.php:194
+msgid "More than one %s published."
+msgstr "Nhiều hơn một %s đã được xuất bản."
+
+#: modules/template-parts/documents/ehp-document-base.php:106
+msgid "Set as Entire Site"
+msgstr "Đặt làm toàn bộ trang web"
+
+#: modules/admin/components/admin-controller.php:15
+#: build/js/helloplus-whats-new.js:1
+#: modules/admin/assets/js/hello-plus-whats-new.js:64
+msgid "Changelog"
+msgstr "Nhật ký thay đổi"
+
+#: modules/template-parts/widgets/ehp-header.php:1678
+msgid "Blur Level"
+msgstr "Mức độ làm mờ"
+
+#: modules/template-parts/widgets/ehp-header.php:1668
+msgid " to both the Box and On Scroll background colors for Blur Background to take effect."
+msgstr " cho cả màu nền của ô và khi cuộn để hiệu ứng Làm mờ nền có hiệu lực."
+
+#: modules/template-parts/widgets/ehp-header.php:1668
+msgid "transparency"
+msgstr "độ trong suốt"
+
+#: modules/template-parts/widgets/ehp-header.php:1668
+msgid "Add "
+msgstr "Thêm "
+
+#: modules/template-parts/widgets/ehp-header.php:1654
+msgid "Blur Background"
+msgstr "Làm mờ nền"
+
+#: modules/template-parts/widgets/ehp-header.php:1124
+msgid "Dropdown"
+msgstr "Menu thả xuống"
+
+#: modules/template-parts/widgets/ehp-header.php:1123
+msgid "Navbar"
+msgstr "Thanh điều hướng"
+
+#: modules/template-parts/widgets/ehp-header.php:1120
+msgid "Responsive Display"
+msgstr "Hiển thị phản hồi"
+
+#: modules/template-parts/widgets/ehp-header.php:982
+msgid "Link Type"
+msgstr "Loại liên kết"
+
+#: modules/template-parts/widgets/ehp-header.php:443
+msgid "Align Menu"
+msgstr "Căn chỉnh menu"
+
+#: modules/content/widgets/contact.php:468
+#: modules/content/widgets/contact.php:576
+#: modules/template-parts/widgets/ehp-header.php:356
+msgid "Add Item"
+msgstr "Thêm mục"
+
+#: classes/ehp-social-platforms.php:366
+msgid "Action"
+msgstr "Hành động"
+
+#: classes/ehp-social-platforms.php:359
+msgid "https://maps.app.goo.gl"
+msgstr "https://maps.app.goo.gl"
+
+#: classes/ehp-social-platforms.php:337
+msgid "https://ul.waze.com/ul?place="
+msgstr "https://ul.waze.com/ul?place="
+
+#: classes/ehp-social-platforms.php:288
+msgid "Enter your username"
+msgstr "Nhập tên người dùng của bạn"
+
+#: classes/ehp-social-platforms.php:279
+msgid "Username"
+msgstr "Tên người dùng"
+
+#: classes/ehp-social-platforms.php:264
+msgid "+"
+msgstr "+"
+
+#: classes/ehp-social-platforms.php:255
+msgid "Number"
+msgstr "Số"
+
+#: classes/ehp-social-platforms.php:216
+msgid "@"
+msgstr "@"
+
+#: classes/ehp-social-platforms.php:198
+msgid "URL"
+msgstr "URL"
+
+#: classes/ehp-social-platforms.php:197
+msgid "Waze"
+msgstr "Waze"
+
+#: classes/ehp-social-platforms.php:196 modules/content/widgets/contact.php:276
+#: modules/content/widgets/contact.php:1486
+msgid "Map"
+msgstr "Bản đồ"
+
+#: classes/ehp-social-platforms.php:195
+msgid "Viber"
+msgstr "Viber"
+
+#: classes/ehp-social-platforms.php:194
+msgid "Messenger"
+msgstr "Messenger"
+
+#: classes/ehp-social-platforms.php:193
+msgid "Whatsapp"
+msgstr "Whatsapp"
+
+#: classes/ehp-social-platforms.php:192
+msgid "SMS"
+msgstr "Tin nhắn"
+
+#: classes/ehp-social-platforms.php:191
+msgid "Telephone"
+msgstr "Điện thoại"
+
+#: classes/ehp-social-platforms.php:187
+msgid "Platform"
+msgstr "Nền tảng"
+
+#: classes/ehp-social-platforms.php:176 modules/content/widgets/contact.php:390
+#: modules/content/widgets/contact.php:455
+#: modules/template-parts/widgets/ehp-header.php:337
+#: modules/template-parts/widgets/ehp-header.php:395
+msgid "Visit"
+msgstr "Truy cập"
+
+#: modules/template-parts/widgets/ehp-header.php:297
+#: modules/template-parts/widgets/ehp-header.php:974
+msgid "Contact Button"
+msgstr "Nút liên hệ"
+
+#. translators: %s: location (e.g. "header").
+#: modules/template-parts/documents/ehp-document-base.php:295
+msgid "Your new %1$s has been saved as a \"Draft\". Activate this %1$s by navigating to Elementor > Saved Templates, and change your current %1$s's status to \"Draft\". Then publish your new %1$s."
+msgstr "Template mới %1$s của bạn đã được lưu dưới dạng \"bản nháp\". Kích hoạt %1$s này bằng cách điều hướng đến Elementor > Template đã lưu, và thay đổi trạng thái của %1$s hiện tại của bạn thành \"bản nháp\". Sau đó, đăng %1$s mới của bạn."
+
+#: modules/template-parts/documents/ehp-document-base.php:37
+msgid "After publishing this widget, you will be able to set it as visible on the entire site in the Admin Table."
+msgstr "Sau khi xuất bản tiện ích này, bạn sẽ có thể đặt nó hiển thị trên toàn bộ trang web trong Bảng quản trị."
+
+#: modules/template-parts/documents/ehp-document-base.php:36
+msgid "Go To Dashboard"
+msgstr "Đến bảng điều khiển"
+
+#: modules/template-parts/classes/sources/source-remote-ehp.php:20
+msgid "Remote-Ehp"
+msgstr "Remote-Ehp"
+
+#: modules/content/widgets/zig-zag.php:618
+msgid "Row Gap"
+msgstr "Khoảng cách hàng"
+
+#: modules/content/widgets/zig-zag.php:583
+msgid "Column Gap"
+msgstr "Khoảng cách cột"
+
+#: modules/content/widgets/cta.php:279
+msgid "Vertical Position"
+msgstr "Vị trí dọc"
+
+#. Author URI of the plugin
+#: hello-plus.php
+msgid "https://elementor.com/?utm_source=wp-plugins&utm_campaign=author-uri&utm_medium=wp-dash"
+msgstr "https://elementor.com/?utm_source=wp-plugins&utm_campaign=author-uri&utm_medium=wp-dash"
+
+#: modules/theme/components/theme-dependency.php:17
+msgid "The Hello Plus plugin requires the Hello Biz theme to be installed and active. <a href=\"%s\">Check it out!</a>"
+msgstr "Plugin Hello Plus yêu cầu giao diện Hello Biz được cài đặt và hoạt động. <a href=\"%s\">Xem ngay!</a>"
+
+#: modules/content/widgets/zig-zag.php:700
+msgid "Animation Delay"
+msgstr "Độ trễ hiệu ứng động"
+
+#: modules/content/widgets/zig-zag.php:686
+msgid "Fast"
+msgstr "Nhanh"
+
+#: modules/content/widgets/zig-zag.php:684
+msgid "Slow"
+msgstr "Chậm"
+
+#: modules/content/widgets/zig-zag.php:681
+msgid "Animation Duration"
+msgstr "Thời lượng hiệu ứng động"
+
+#: modules/content/widgets/zig-zag.php:672
+#: modules/content/widgets/zig-zag.php:1086
+msgid "Sequenced Entrance Animation"
+msgstr "Hiệu ứng động vào cửa theo trình tự"
+
+#: modules/content/widgets/zig-zag.php:663
+#: modules/content/widgets/zig-zag.php:1038
+msgid "Motion Effects"
+msgstr "Hiệu ứng chuyển động"
+
+#: modules/content/widgets/contact.php:1687 modules/content/widgets/cta.php:619
+#: modules/content/widgets/flex-hero.php:631
+#: modules/forms/widgets/ehp-form.php:2149
+msgid "Opacity"
+msgstr "Độ mờ"
+
+#: modules/content/widgets/contact.php:1669 modules/content/widgets/cta.php:595
+#: modules/content/widgets/flex-hero.php:607
+#: modules/forms/widgets/ehp-form.php:2130
+msgid "Background Overlay"
+msgstr "Nền lớp phủ"
+
+#: classes/ehp-image.php:209
+msgid "Min Height"
+msgstr "Chiều cao tối thiểu"
+
+#: classes/ehp-shapes.php:140 classes/ehp-shapes.php:155
+msgid "Border Radius"
+msgstr "Góc bo viền"
+
+#: classes/ehp-shapes.php:34
+msgid "Custom"
+msgstr "Tuỳ chỉnh"
+
+#: classes/ehp-shapes.php:33
+msgid "Oval"
+msgstr "Hình trái xoan"
+
+#: modules/content/widgets/contact.php:629
+#: modules/content/widgets/contact.php:692 modules/content/widgets/cta.php:248
+#: modules/content/widgets/flex-hero.php:325
+#: modules/content/widgets/flex-hero.php:356
+#: modules/forms/widgets/ehp-form.php:1033
+#: modules/forms/widgets/ehp-form.php:1094
+msgid "Content Alignment"
+msgstr "Căn chỉnh nội dung"
+
+#: modules/content/widgets/cta.php:336
+#: modules/content/widgets/flex-hero.php:275
+msgid "Image Position"
+msgstr "Vị trí hình ảnh"
+
+#: modules/content/widgets/contact.php:122 modules/content/widgets/cta.php:104
+#: modules/content/widgets/flex-hero.php:103
+#: modules/forms/widgets/ehp-form.php:143
+#: modules/template-parts/widgets/ehp-header.php:119
+msgid "Preset"
+msgstr "Cài sẵn"
+
+#: modules/content/widgets/flex-hero.php:210
+msgid "Get customized workouts, expert guidance, and the motivation you need to feel your best."
+msgstr "Nhận các bài tập tuỳ chỉnh, hướng dẫn từ chuyên gia, và động lực bạn cần để cảm thấy tốt nhất."
+
+#: modules/content/widgets/flex-hero.php:176
+msgid "Achieve your goals with a personal trainer who cares"
+msgstr "Đạt được mục tiêu của bạn với một huấn luyện viên cá nhân quan tâm"
+
+#: modules/content/widgets/flex-hero.php:142
+msgid "Start your journey"
+msgstr "Bắt đầu hành trình của bạn"
+
+#: modules/content/widgets/flex-hero.php:139
+#: modules/content/widgets/flex-hero.php:442
+msgid "Intro"
+msgstr "Giới thiệu"
+
+#: modules/content/widgets/flex-hero.php:40 modules/content/widgets/hero.php:67
+msgid "Flex Hero"
+msgstr "Flex Hero"
+
+#. translators: %s: Elementor version number.
+#: includes/utils.php:83
+msgid "Elementor plugin version needs to be at least %s for Hello Plus to Work. Please update."
+msgstr "Phiên bản plugin Elementor cần phải ít nhất là %s để Hello Plus hoạt động. Vui lòng cập nhật."
+
+#: modules/template-parts/classes/steps/setup-header.php:68
+msgid "This element applies across different pages, so visitors can easily navigate around your site."
+msgstr "Phần tử này áp dụng trên nhiều trang khác nhau, vì vậy khách truy cập có thể dễ dàng điều hướng trên trang web của bạn."
+
+#: modules/template-parts/classes/steps/setup-header.php:64
+msgid "Set up a Hello+ header"
+msgstr "Thiết lập đầu trang Hello+"
+
+#: modules/template-parts/classes/steps/setup-header.php:60
+msgid "Go to Home Dashboard"
+msgstr "Đi đến Bảng điều khiển Trang chủ"
+
+#: modules/theme/components/theme-dependency.php:24
+#: modules/theme/components/theme-dependency.php:34
+msgid "Plugin Activation Error"
+msgstr "Lỗi kích hoạt Plugin"
+
+#: includes/utils.php:166 modules/theme/module.php:74
+#: build/js/helloplus-onboarding.js:1
+#: modules/admin/assets/js/components/top-bar/top-bar-content.js:15
+msgid "Hello+"
+msgstr "Hello+"
+
+#: modules/template-parts/widgets/ehp-widget-base.php:96
+msgid "CSS ID"
+msgstr "ID CSS"
+
+#: modules/template-parts/widgets/ehp-widget-base.php:88
+msgid "CSS"
+msgstr "CSS"
+
+#: modules/template-parts/widgets/ehp-widget-base.php:75
+msgid "Responsive visibility will take effect only on preview mode or live page, and not while editing in Elementor."
+msgstr "Tính năng hiển thị thích ứng chỉ có hiệu lực ở chế độ xem trước hoặc trang trực tiếp, và không có hiệu lực khi chỉnh sửa trong Elementor."
+
+#: modules/template-parts/widgets/ehp-widget-base.php:67
+msgid "Responsive"
+msgstr "Tương thích"
+
+#: modules/template-parts/widgets/ehp-header.php:1616
+msgid "Change Background Color"
+msgstr "Thay đổi màu nền"
+
+#: modules/template-parts/widgets/ehp-header.php:1585
+msgid "900"
+msgstr "900"
+
+#: modules/template-parts/widgets/ehp-header.php:1584
+msgid "800"
+msgstr "800"
+
+#: modules/template-parts/widgets/ehp-header.php:1583
+msgid "700"
+msgstr "700"
+
+#: modules/template-parts/widgets/ehp-header.php:1582
+msgid "600"
+msgstr "600"
+
+#: modules/template-parts/widgets/ehp-header.php:1581
+msgid "500"
+msgstr "500"
+
+#: modules/template-parts/widgets/ehp-header.php:1580
+msgid "400"
+msgstr "400"
+
+#: modules/template-parts/widgets/ehp-header.php:1579
+msgid "300"
+msgstr "300"
+
+#: modules/template-parts/widgets/ehp-header.php:1578
+msgid "200"
+msgstr "200"
+
+#: modules/template-parts/widgets/ehp-header.php:1577
+msgid "100"
+msgstr "100"
+
+#: modules/template-parts/widgets/ehp-header.php:1573
+msgid "Font Weight"
+msgstr "Độ đậm phông chữ"
+
+#: modules/template-parts/widgets/ehp-header.php:1524
+msgid "Font Size"
+msgstr "Cỡ chữ"
+
+#: modules/template-parts/widgets/ehp-header.php:1497
+msgid "Scale Site Name"
+msgstr "Điều chỉnh tỷ lệ tên trang web"
+
+#: modules/template-parts/widgets/ehp-header.php:1418
+msgid "Scale Site Logo"
+msgstr "Điều chỉnh tỷ lệ logo trang web"
+
+#: modules/template-parts/widgets/ehp-header.php:1409
+msgid "Always"
+msgstr "Luôn luôn"
+
+#: modules/template-parts/widgets/ehp-header.php:1408
+msgid "On Scroll Up"
+msgstr "Khi cuộn lên"
+
+#: modules/template-parts/widgets/ehp-header.php:1404
+msgid "Sticky"
+msgstr "Dính"
+
+#: modules/template-parts/widgets/ehp-header.php:1395
+msgid "On Scroll"
+msgstr "Khi cuộn"
+
+#: modules/template-parts/widgets/ehp-header.php:1336
+msgid "Offset"
+msgstr "Khoảng cách"
+
+#: modules/template-parts/widgets/ehp-header.php:1324
+msgid "Float"
+msgstr "Nổi"
+
+#: modules/template-parts/widgets/ehp-header.php:1316
+msgid "Behavior"
+msgstr "Hành vi"
+
+#: classes/ehp-image.php:119 modules/content/widgets/contact.php:1515
+#: modules/content/widgets/cta.php:515
+#: modules/template-parts/widgets/ehp-header.php:1154
+msgid "Stretch"
+msgstr "Kéo giãn"
+
+#: modules/template-parts/widgets/ehp-header.php:1149
+msgid "Responsive Width"
+msgstr "Chiều rộng tương thích"
+
+#: modules/template-parts/widgets/ehp-header.php:929
+#: modules/template-parts/widgets/ehp-header.php:952
+msgid "Toggle Icon Color"
+msgstr "Thay đổi màu biểu tượng"
+
+#: modules/template-parts/widgets/ehp-header.php:889
+msgid "Toggle Icon Size"
+msgstr "Thay đổi kích thước biểu tượng"
+
+#: modules/template-parts/widgets/ehp-header.php:863
+msgid "Weight"
+msgstr "Trọng lượng"
+
+#: modules/template-parts/widgets/ehp-header.php:833
+msgid "Divider"
+msgstr "Vạch ngăn cách"
+
+#: modules/template-parts/widgets/ehp-header.php:811
+msgid "Text Align"
+msgstr "Căn chỉnh văn bản"
+
+#: modules/template-parts/widgets/ehp-header.php:804
+msgid "To preview, select a responsive viewport icon."
+msgstr "Để xem trước, hãy chọn một biểu tượng viewport thích ứng."
+
+#: modules/template-parts/widgets/ehp-header.php:793
+msgid "Responsive Menu"
+msgstr "Menu tương thích"
+
+#: modules/content/widgets/contact.php:114
+#: modules/content/widgets/contact.php:621 modules/content/widgets/cta.php:96
+#: modules/content/widgets/cta.php:240 modules/content/widgets/flex-hero.php:95
+#: modules/content/widgets/flex-hero.php:267
+#: modules/content/widgets/zig-zag.php:282
+#: modules/forms/widgets/ehp-form.php:136
+#: modules/forms/widgets/ehp-form.php:939
+#: modules/template-parts/widgets/ehp-header.php:111
+#: modules/template-parts/widgets/ehp-header.php:772
+msgid "Layout"
+msgstr "Bố cục"
+
+#: modules/template-parts/widgets/ehp-header.php:763
+msgid "Submenu"
+msgstr "Menu con"
+
+#: modules/template-parts/widgets/ehp-header.php:732
+msgid "Menu Item Spacing"
+msgstr "Khoảng cách giữa các mục menu"
+
+#: modules/template-parts/widgets/ehp-header.php:640
+msgid "Focus Animation"
+msgstr "Hiệu ứng động khi tập trung"
+
+#: modules/template-parts/widgets/ehp-header.php:619
+#: modules/template-parts/widgets/ehp-header.php:945
+msgid "Active"
+msgstr "Đang hoạt động"
+
+#: modules/template-parts/widgets/ehp-header.php:597
+#: modules/template-parts/widgets/ehp-header.php:708
+msgid "Highlight Width"
+msgstr "Chiều rộng vùng nổi bật"
+
+#: modules/template-parts/widgets/ehp-header.php:580
+#: modules/template-parts/widgets/ehp-header.php:691
+msgid "Highlight Color"
+msgstr "Màu vùng nổi bật"
+
+#: modules/template-parts/widgets/ehp-header.php:566
+#: modules/template-parts/widgets/ehp-header.php:603
+#: modules/template-parts/widgets/ehp-header.php:677
+#: modules/template-parts/widgets/ehp-header.php:714
+msgid "Thick"
+msgstr "Dày"
+
+#: modules/template-parts/widgets/ehp-header.php:565
+#: modules/template-parts/widgets/ehp-header.php:602
+#: modules/template-parts/widgets/ehp-header.php:676
+#: modules/template-parts/widgets/ehp-header.php:713
+msgid "Thin"
+msgstr "Mỏng"
+
+#: modules/template-parts/widgets/ehp-header.php:560
+#: modules/template-parts/widgets/ehp-header.php:671
+msgid "Underline Width"
+msgstr "Độ rộng gạch chân"
+
+#: modules/template-parts/widgets/ehp-header.php:543
+#: modules/template-parts/widgets/ehp-header.php:654
+msgid "Underline Color"
+msgstr "Màu gạch chân"
+
+#: modules/template-parts/widgets/ehp-header.php:535
+#: modules/template-parts/widgets/ehp-header.php:646
+msgid "Highlight"
+msgstr "Đánh dấu"
+
+#: modules/template-parts/widgets/ehp-header.php:534
+#: modules/template-parts/widgets/ehp-header.php:645
+msgid "Underline"
+msgstr "Gạch chân"
+
+#: modules/template-parts/widgets/ehp-header.php:533
+#: modules/template-parts/widgets/ehp-header.php:644
+#: modules/template-parts/widgets/ehp-header.php:1410
+#: build/js/helloplus-forms-editor.js:1
+#: modules/forms/assets/js/editor/fields-map-control.js:39
+msgid "None"
+msgstr "Không có"
+
+#: modules/template-parts/widgets/ehp-header.php:529
+msgid "Pointer"
+msgstr "Con trỏ"
+
+#: modules/template-parts/widgets/ehp-header.php:1445
+#: modules/template-parts/widgets/ehp-widget-base.php:225
+msgid "Logo Width"
+msgstr "Độ rộng logo"
+
+#: modules/template-parts/widgets/ehp-header.php:1138
+msgid "Call to Action"
+msgstr "Kêu gọi hành động"
+
+#: modules/template-parts/widgets/ehp-header.php:249
+msgid "Submenu Indicator Icon"
+msgstr "Biểu tượng chỉ báo menu phụ"
+
+#: modules/template-parts/widgets/ehp-header.php:234
+msgid "Breakpoint"
+msgstr "Điểm ngắt"
+
+#: modules/template-parts/widgets/ehp-header.php:203
+msgid "Responsive Toggle Icon"
+msgstr "Biểu tượng chuyển đổi tương thích"
+
+#: modules/template-parts/widgets/ehp-widget-base.php:190
+msgid "Site Identity > Site Name"
+msgstr "Nhận diện trang web > Tên trang web"
+
+#: modules/template-parts/widgets/ehp-header.php:152
+#: modules/template-parts/widgets/ehp-header.php:421
+msgid "Site Identity"
+msgstr "Nhận dạng trang web"
+
+#: modules/theme/components/theme-overrides.php:33
+msgid "Header"
+msgstr "Đầu trang"
+
+#: modules/template-parts/widgets/ehp-footer.php:952
+msgid "Vertical Content Gap"
+msgstr "Khoảng cách nội dung dọc"
+
+#: modules/template-parts/widgets/ehp-footer.php:940
+#: modules/template-parts/widgets/ehp-footer.php:960
+msgid "Wide"
+msgstr "Rộng"
+
+#: modules/template-parts/widgets/ehp-footer.php:939
+#: modules/template-parts/widgets/ehp-footer.php:959
+msgid "Narrow"
+msgstr "Hẹp"
+
+#: modules/template-parts/widgets/ehp-footer.php:924
+msgid "Box Shadow"
+msgstr "Bóng hộp"
+
+#: modules/template-parts/widgets/ehp-footer.php:762
+msgid "Contact Heading"
+msgstr "Tiêu đề liên hệ"
+
+#: modules/template-parts/widgets/ehp-footer.php:638
+msgid "Menu Items"
+msgstr "Mục menu"
+
+#: modules/template-parts/widgets/ehp-footer.php:604
+msgid "Menu Heading"
+msgstr "Tiêu đề menu"
+
+#: modules/content/widgets/contact.php:1137
+#: modules/content/widgets/contact.php:1177
+#: modules/content/widgets/contact.php:1324
+#: modules/content/widgets/contact.php:1349
+#: modules/content/widgets/zig-zag.php:938
+#: modules/template-parts/widgets/ehp-footer.php:508
+#: modules/template-parts/widgets/ehp-footer.php:531
+msgid "Icon Color"
+msgstr "Màu biểu tượng"
+
+#: modules/template-parts/widgets/ehp-footer.php:480
+#: modules/template-parts/widgets/ehp-header.php:1070
+msgid "Size"
+msgstr "Kích thước"
+
+#: modules/template-parts/widgets/ehp-footer.php:460
+#: modules/template-parts/widgets/ehp-footer.php:581
+#: modules/template-parts/widgets/ehp-footer.php:627
+#: modules/template-parts/widgets/ehp-footer.php:648
+#: modules/template-parts/widgets/ehp-footer.php:785
+#: modules/template-parts/widgets/ehp-footer.php:820
+msgid "Typography"
+msgstr "Kiểu chữ"
+
+#: modules/template-parts/widgets/ehp-widget-base.php:137
+#: modules/template-parts/widgets/ehp-widget-base.php:259
+msgid "Site Name"
+msgstr "Tên trang web"
+
+#: modules/template-parts/widgets/ehp-footer.php:390
+#: modules/template-parts/widgets/ehp-footer.php:796
+msgid "Contact Information"
+msgstr "Thông tin liên hệ"
+
+#: modules/content/widgets/contact.php:166
+#: modules/template-parts/widgets/ehp-footer.php:361
+msgid "Get in touch"
+msgstr "Liên hệ"
+
+#: modules/content/widgets/contact.php:46
+#: modules/template-parts/widgets/ehp-footer.php:350
+#: modules/template-parts/widgets/ehp-footer.php:754
+msgid "Contact"
+msgstr "Liên hệ"
+
+#. translators: 1: Link opening tag, 2: Link closing tag.
+#: modules/template-parts/widgets/ehp-footer.php:334
+#: modules/template-parts/widgets/ehp-header.php:281
+msgid "Add and manage menus from %1$sMy menus%2$s "
+msgstr "Thêm và quản lý menu từ %1$sMenu của tôi%2$s "
+
+#: modules/template-parts/widgets/ehp-footer.php:331
+#: modules/template-parts/widgets/ehp-header.php:278
+msgid "There are no menus in your site."
+msgstr "Không có menu nào trong trang web của bạn."
+
+#. translators: 1: Link opening tag, 2: Link closing tag.
+#: modules/template-parts/widgets/ehp-footer.php:319
+#: modules/template-parts/widgets/ehp-header.php:193
+msgid "Go to the %1$sMenus screen%2$s to manage your menus."
+msgstr "Vào màn hình %1$sMenu%2$s để quản lý menu của bạn."
+
+#: modules/template-parts/widgets/ehp-footer.php:278
+msgid "Quick Links"
+msgstr "Liên kết nhanh"
+
+#: modules/template-parts/widgets/ehp-footer.php:267
+#: modules/template-parts/widgets/ehp-footer.php:596
+#: modules/template-parts/widgets/ehp-header.php:166
+#: modules/template-parts/widgets/ehp-header.php:435
+msgid "Navigation"
+msgstr "Điều hướng"
+
+#: modules/template-parts/widgets/ehp-footer.php:233
+msgid "©2024 All rights reserved"
+msgstr "©2024 Bảo lưu mọi quyền"
+
+#: modules/template-parts/widgets/ehp-footer.php:230
+#: modules/template-parts/widgets/ehp-footer.php:557
+msgid "Copyright"
+msgstr "Bản quyền"
+
+#: modules/content/widgets/contact.php:603
+#: modules/template-parts/widgets/ehp-footer.php:216
+msgid "X (Twitter)"
+msgstr "X (Twitter)"
+
+#: modules/content/widgets/contact.php:593
+#: modules/template-parts/widgets/ehp-footer.php:209
+msgid "Tiktok"
+msgstr "TikTok"
+
+#: modules/content/widgets/contact.php:536
+#: modules/content/widgets/contact.php:583
+#: modules/template-parts/widgets/ehp-footer.php:164
+#: modules/template-parts/widgets/ehp-footer.php:202
+msgid "Instagram"
+msgstr "Instagram"
+
+#: modules/content/widgets/contact.php:534
+#: modules/template-parts/widgets/ehp-footer.php:160
+#: modules/template-parts/widgets/ehp-header.php:173
+msgid "Accessible Name"
+msgstr "Tên truy cập được"
+
+#: modules/content/widgets/contact.php:372
+#: modules/content/widgets/contact.php:1304
+#: modules/template-parts/widgets/ehp-footer.php:149
+#: modules/template-parts/widgets/ehp-footer.php:471
+msgid "Social Icons"
+msgstr "Biểu tượng mạng xã hội"
+
+#: modules/template-parts/widgets/ehp-footer.php:120
+msgid "Leveraging data-driven strategies, innovative technologies, and creative content to drive conversions and maximize ROI for our clients."
+msgstr "Tận dụng các chiến lược dựa trên dữ liệu, công nghệ tiên tiến và nội dung sáng tạo để thúc đẩy chuyển đổi và tối đa hóa ROI cho khách hàng của chúng tôi."
+
+#: modules/template-parts/widgets/ehp-widget-base.php:190
+msgid " to edit the Site Name"
+msgstr " để chỉnh sửa tên trang web"
+
+#: modules/template-parts/widgets/ehp-widget-base.php:190
+msgid "Go to"
+msgstr "Đi đến"
+
+#: modules/template-parts/widgets/ehp-widget-base.php:170
+msgid "Change Site Logo"
+msgstr "Thay đổi Logo Trang web"
+
+#: modules/template-parts/widgets/ehp-widget-base.php:136
+#: modules/template-parts/widgets/ehp-widget-base.php:148
+msgid "Site Logo"
+msgstr "Logo Trang web"
+
+#: modules/template-parts/widgets/ehp-footer.php:107
+#: modules/template-parts/widgets/ehp-footer.php:426
+#: modules/template-parts/widgets/ehp-widget-base.php:133
+msgid "Brand"
+msgstr "Thương hiệu"
+
+#: modules/theme/components/theme-overrides.php:40
+msgid "Footer"
+msgstr "Chân trang"
+
+#: modules/template-parts/documents/ehp-header.php:28
+msgid "Hello+ Headers"
+msgstr "Đầu trang Hello+"
+
+#: modules/template-parts/documents/ehp-header.php:24
+#: modules/template-parts/widgets/ehp-header.php:49
+#: build/js/helloplus-editor.js:1
+#: modules/template-parts/assets/js/editor/hooks/ui/add-library-tab.js:19
+msgid "Hello+ Header"
+msgstr "Đầu trang Hello+"
+
+#: modules/template-parts/documents/ehp-footer.php:28
+msgid "Hello+ Footers"
+msgstr "Chân trang Hello+"
+
+#: modules/template-parts/documents/ehp-footer.php:24
+#: modules/template-parts/widgets/ehp-footer.php:44
+#: build/js/helloplus-editor.js:1
+#: modules/template-parts/assets/js/editor/hooks/ui/add-library-tab.js:21
+msgid "Hello+ Footer"
+msgstr "Chân trang Hello+"
+
+#: modules/template-parts/classes/render/widget-header-render.php:257
+#: modules/template-parts/widgets/ehp-footer.php:311
+#: modules/template-parts/widgets/ehp-header.php:175
+#: modules/template-parts/widgets/ehp-header.php:185
+#: modules/template-parts/widgets/ehp-header.php:212
+msgid "Menu"
+msgstr "Menu"
+
+#: modules/template-parts/classes/render/widget-header-render.php:220
+msgid "Menu Toggle"
+msgstr "Bật/Tắt Menu"
+
+#: modules/forms/widgets/ehp-form.php:2085
+msgid "Inline Message Color"
+msgstr "Màu sắc tin nhắn nội tuyến"
+
+#: modules/forms/widgets/ehp-form.php:2074
+msgid "Error Message Color"
+msgstr "Màu sắc tin nhắn lỗi"
+
+#: modules/forms/widgets/ehp-form.php:2063
+msgid "Success Message Color"
+msgstr "Màu sắc tin nhắn thành công"
+
+#: modules/forms/widgets/ehp-form.php:2044
+msgid "Messages"
+msgstr "Nội dung tin nhắn"
+
+#: modules/forms/widgets/ehp-form.php:1919
+msgid "Animation"
+msgstr "Hiệu ứng động"
+
+#: modules/forms/widgets/ehp-form.php:1670
+#: modules/forms/widgets/ehp-form.php:1975
+msgid "Border Color"
+msgstr "Màu viền"
+
+#: modules/forms/widgets/ehp-form.php:1613
+msgid "Background Color"
+msgstr "Màu nền"
+
+#: modules/forms/widgets/ehp-form.php:1571
+msgid "Input Size"
+msgstr "Kích thước ô nhập liệu"
+
+#: modules/forms/widgets/ehp-form.php:1563
+msgid "Fields"
+msgstr "Các trường"
+
+#: modules/forms/widgets/ehp-form.php:1533
+msgid "Mark Color"
+msgstr "Màu đánh dấu"
+
+#: modules/content/widgets/contact.php:985
+#: modules/content/widgets/contact.php:1056
+#: modules/content/widgets/contact.php:1090
+#: modules/forms/widgets/ehp-form.php:1367
+#: modules/forms/widgets/ehp-form.php:1492
+#: modules/template-parts/widgets/ehp-footer.php:719
+#: modules/template-parts/widgets/ehp-header.php:1097
+msgid "Spacing"
+msgstr "Khoảng cách"
+
+#: modules/forms/widgets/ehp-form.php:1456
+msgid "Rows Gap"
+msgstr "Khoảng cách giữa các hàng"
+
+#: modules/forms/widgets/ehp-form.php:1429
+msgid "Columns Gap"
+msgstr "Khoảng cách giữa các cột"
+
+#: modules/forms/widgets/ehp-form.php:1421
+msgid "Form"
+msgstr "Mẫu biểu"
+
+#: modules/forms/widgets/ehp-form.php:1271
+msgid "Invalid Form"
+msgstr "Mẫu biểu không hợp lệ"
+
+#: modules/forms/widgets/ehp-form.php:1253
+msgid "Server Error"
+msgstr "Lỗi máy chủ"
+
+#: modules/forms/widgets/ehp-form.php:1235
+msgid "Form Error"
+msgstr "Lỗi mẫu biểu"
+
+#: modules/forms/widgets/ehp-form.php:1217
+msgid "Success Message"
+msgstr "Gửi tin nhắn thành công"
+
+#: modules/forms/widgets/ehp-form.php:1204
+msgid "Custom Messages"
+msgstr "Tin nhắn tùy chỉnh"
+
+#: modules/forms/widgets/ehp-form.php:1182
+msgid "Form ID"
+msgstr "ID Mẫu biểu"
+
+#: modules/forms/widgets/ehp-form.php:1174
+msgid "Additional Options"
+msgstr "Tùy chọn bổ sung"
+
+#: modules/forms/widgets/ehp-form.php:713
+msgid "Email Submissions"
+msgstr "Gửi email"
+
+#: modules/forms/widgets/ehp-form.php:675
+msgid "Redirect To Thank You Page"
+msgstr "Chuyển hướng đến trang Cảm ơn"
+
+#: modules/forms/widgets/ehp-form.php:668
+msgid "Actions After Submit"
+msgstr "Hành động sau khi gửi"
+
+#: modules/forms/widgets/ehp-form.php:647
+#: modules/template-parts/widgets/ehp-widget-base.php:105
+msgid "Add your custom id WITHOUT the Pound key. e.g: my-id"
+msgstr "Thêm ID tùy chỉnh của bạn KHÔNG có ký hiệu thăng. Ví dụ: my-id"
+
+#: modules/forms/widgets/ehp-form.php:641
+msgid "Button ID"
+msgstr "ID Nút"
+
+#: modules/forms/widgets/ehp-form.php:617
+#: modules/forms/widgets/ehp-form.php:618
+msgid "Send"
+msgstr "Gửi"
+
+#: modules/forms/widgets/ehp-form.php:615
+msgid "Submit"
+msgstr "Gửi"
+
+#: modules/forms/widgets/ehp-form.php:575
+msgid "Required Mark"
+msgstr "Dấu bắt buộc"
+
+#: modules/forms/widgets/ehp-form.php:532
+#: modules/forms/widgets/ehp-form.php:533
+msgid "Name"
+msgstr "Tên"
+
+#: modules/forms/widgets/ehp-form.php:518
+msgid "New Form"
+msgstr "Mẫu biểu mới"
+
+#: modules/forms/widgets/ehp-form.php:516
+#: modules/forms/widgets/ehp-form.php:519
+msgid "Form Name"
+msgstr "Tên biểu mẫu"
+
+#: modules/forms/widgets/ehp-form.php:509
+msgid "Form Fields"
+msgstr "Các trường biểu mẫu"
+
+#: modules/forms/widgets/ehp-form.php:495
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#. translators: %1$s: Opening code tag, %2$s: Closing code tag.
+#: modules/forms/widgets/ehp-form.php:475
+#: modules/forms/widgets/ehp-form.php:650
+#: modules/forms/widgets/ehp-form.php:1190
+msgid "Please make sure the ID is unique and not used elsewhere on the page. This field allows %1$sA-z 0-9%2$s & underscore chars without spaces."
+msgstr "Hãy đảm bảo ID là duy nhất và không được sử dụng ở bất kỳ nơi nào khác trên trang. Trường này cho phép %1$sA-z 0-9%2$s & ký tự gạch dưới mà không có khoảng trắng."
+
+#: modules/forms/widgets/ehp-form.php:471
+msgid "ID"
+msgstr "ID"
+
+#: modules/forms/widgets/ehp-form.php:441
+msgid "Default Value"
+msgstr "Giá trị mặc định"
+
+#: modules/forms/widgets/ehp-form.php:431
+#: modules/template-parts/widgets/ehp-widget-base.php:50
+msgid "Advanced"
+msgstr "Nâng cao"
+
+#: modules/forms/widgets/ehp-form.php:422
+#: modules/template-parts/widgets/ehp-widget-base.php:122
+msgid "Add your custom class WITHOUT the dot. e.g: my-class"
+msgstr "Thêm lớp tùy chỉnh của bạn KHÔNG có dấu chấm. Ví dụ: my-class"
+
+#: modules/forms/widgets/ehp-form.php:419
+#: modules/template-parts/widgets/ehp-widget-base.php:113
+msgid "CSS Classes"
+msgstr "Các lớp CSS"
+
+#: modules/forms/widgets/ehp-form.php:386
+#: modules/forms/widgets/ehp-form.php:600
+msgid "Column Width"
+msgstr "Độ rộng cột"
+
+#: modules/forms/widgets/ehp-form.php:347
+msgid "Multiple Selection"
+msgstr "Cho phép chọn nhiều"
+
+#: modules/forms/widgets/ehp-form.php:329
+msgid "Enter each option in a separate line. To differentiate between label and value, separate them with a pipe char (\"|\"). For example: First Name|f_name"
+msgstr "Nhập mỗi tuỳ chọn trên một dòng riêng biệt. Để phân biệt giữa nhãn và giá trị, hãy tách chúng bằng ký tự ống (\"|\"). Ví dụ: Họ|f_name"
+
+#: modules/forms/widgets/ehp-form.php:326
+msgid "Options"
+msgstr "Tùy chọn"
+
+#: modules/forms/widgets/ehp-form.php:316
+msgid "Required"
+msgstr "Bắt buộc"
+
+#: modules/forms/widgets/ehp-form.php:290
+msgid "Placeholder"
+msgstr "Placeholder"
+
+#: classes/ehp-social-platforms.php:174 modules/forms/widgets/ehp-form.php:278
+#: modules/forms/widgets/ehp-form.php:562
+#: modules/forms/widgets/ehp-form.php:1483
+#: modules/template-parts/widgets/ehp-header.php:986
+msgid "Label"
+msgstr "Nhãn"
+
+#: modules/forms/widgets/ehp-form.php:255
+msgid "Select"
+msgstr "Chọn"
+
+#: modules/forms/widgets/ehp-form.php:253
+msgid "Textarea"
+msgstr "Textarea"
+
+#: modules/forms/widgets/ehp-form.php:219
+msgid "Fill out the form below and we will contact you as soon as possible"
+msgstr "Hãy điền vào biểu mẫu bên dưới và chúng tôi sẽ liên hệ với bạn sớm nhất có thể."
+
+#: modules/forms/widgets/ehp-form.php:197
+msgid "Heading HTML Tag"
+msgstr "Thẻ HTML tiêu đề"
+
+#: modules/forms/widgets/ehp-form.php:187
+#: modules/forms/widgets/ehp-form.php:220
+msgid "Add your text here"
+msgstr "Thêm văn bản của bạn vào đây"
+
+#: modules/forms/widgets/ehp-form.php:71
+msgid "Unlock advanced form customization and field options with Elementor Pro."
+msgstr "Mở khóa tùy chỉnh biểu mẫu nâng cao và các tùy chọn trường với Elementor Pro."
+
+#: modules/forms/widgets/ehp-form.php:70
+msgid "Take your forms further"
+msgstr "Nâng cao hơn nữa các biểu mẫu của bạn"
+
+#: modules/forms/widgets/ehp-form.php:69 modules/forms/widgets/ehp-form.php:73
+msgid "Upgrade Now"
+msgstr "Nâng cấp ngay"
+
+#: modules/forms/widgets/ehp-form.php:50
+msgid "Form Lite"
+msgstr "Form Lite"
+
+#: modules/forms/fields/tel.php:36
+msgid "The field accepts only numbers and phone characters (#, -, *, etc)."
+msgstr "Trường này chỉ chấp nhận số và các ký tự điện thoại (#, -, *, v.v.)."
+
+#: modules/forms/fields/tel.php:24
+msgid "Only numbers and phone characters (#, -, *, etc) are accepted."
+msgstr "Chỉ chấp nhận số và các ký tự điện thoại (#, -, *, v.v.)"
+
+#: modules/forms/fields/tel.php:18 modules/forms/widgets/ehp-form.php:254
+msgid "Tel"
+msgstr "Điện thoại"
+
+#: modules/forms/fields/acceptance.php:45
+msgid "Checked by Default"
+msgstr "Đã được chọn theo mặc định"
+
+#: modules/forms/fields/acceptance.php:34
+msgid "Acceptance Text"
+msgstr "Văn bản chấp nhận"
+
+#: modules/forms/fields/acceptance.php:19
+#: modules/forms/widgets/ehp-form.php:256
+msgid "Acceptance"
+msgstr "Chấp nhận"
+
+#: modules/forms/components/ajax-handler.php:232
+msgid "This message is not visible to site visitors."
+msgstr "Tin nhắn này không hiển thị với người truy cập trang web."
+
+#: modules/forms/components/ajax-handler.php:54
+msgid "Unknown error."
+msgstr "Lỗi không xác định."
+
+#: modules/forms/components/ajax-handler.php:40
+msgid "Subscriber already exists."
+msgstr "Người đăng ký đã tồn tại."
+
+#: modules/forms/components/ajax-handler.php:39
+msgid "Your submission failed because of a server error."
+msgstr "Gửi dữ liệu của bạn thất bại do lỗi máy chủ."
+
+#: modules/forms/components/ajax-handler.php:38
+msgid "Your submission failed because the form is invalid."
+msgstr "Gửi dữ liệu của bạn thất bại vì biểu mẫu không hợp lệ."
+
+#: modules/forms/components/ajax-handler.php:37
+msgid "This field is required."
+msgstr "Trường này là bắt buộc."
+
+#: modules/forms/components/ajax-handler.php:36
+msgid "Your submission failed because of an error."
+msgstr "Gửi dữ liệu của bạn thất bại do lỗi."
+
+#: modules/forms/components/ajax-handler.php:35
+msgid "Your submission was successful."
+msgstr "Gửi dữ liệu của bạn thành công."
+
+#: modules/forms/classes/form-record.php:216
+msgid "Elementor"
+msgstr "Elementor"
+
+#: modules/forms/classes/form-record.php:215
+msgid "Powered by"
+msgstr "Được cung cấp bởi"
+
+#: modules/forms/classes/form-record.php:194
+msgid "Page Title"
+msgstr "Tiêu đề trang"
+
+#: modules/forms/classes/form-record.php:21
+msgid "No Label"
+msgstr "Không có nhãn"
+
+#: modules/forms/classes/form-base.php:36
+#: modules/forms/widgets/ehp-form.php:1578
+msgid "Extra Large"
+msgstr "Rất lớn"
+
+#: modules/forms/classes/form-base.php:35
+#: modules/forms/widgets/ehp-form.php:1577
+#: modules/template-parts/widgets/ehp-footer.php:486
+msgid "Large"
+msgstr "Lớn"
+
+#: modules/forms/classes/form-base.php:34
+#: modules/forms/widgets/ehp-form.php:1576
+msgid "Medium"
+msgstr "Trung bình"
+
+#: modules/forms/classes/form-base.php:33
+#: modules/forms/widgets/ehp-form.php:1575
+#: modules/template-parts/widgets/ehp-footer.php:485
+msgid "Small"
+msgstr "Nhỏ"
+
+#: modules/forms/classes/form-base.php:32
+#: modules/forms/widgets/ehp-form.php:1574
+msgid "Extra Small"
+msgstr "Rất nhỏ"
+
+#: modules/forms/widgets/ehp-form.php:689
+msgid "https://your-link.com"
+msgstr "https://your-link.com"
+
+#: modules/forms/widgets/ehp-form.php:687
+msgid "Redirect To"
+msgstr "Chuyển hướng đến"
+
+#: modules/forms/actions/redirect.php:18
+msgid "Redirect"
+msgstr "Chuyển hướng"
+
+#: modules/forms/widgets/ehp-form.php:898
+msgid "Plain"
+msgstr "Thuần văn bản"
+
+#: modules/forms/widgets/ehp-form.php:897
+msgid "HTML"
+msgstr "HTML"
+
+#: modules/forms/widgets/ehp-form.php:892
+msgid "Send As"
+msgstr "Gửi dưới dạng"
+
+#: modules/forms/widgets/ehp-form.php:883
+msgid "Credit"
+msgstr "Tín dụng"
+
+#: modules/forms/classes/form-record.php:209
+#: modules/forms/widgets/ehp-form.php:882
+msgid "Remote IP"
+msgstr "IP từ xa"
+
+#: modules/forms/classes/form-record.php:202
+#: modules/forms/widgets/ehp-form.php:881
+msgid "User Agent"
+msgstr "User Agent"
+
+#: modules/forms/classes/form-record.php:186
+#: modules/forms/widgets/ehp-form.php:880
+msgid "Page URL"
+msgstr "URL trang"
+
+#: modules/forms/classes/form-record.php:178
+#: modules/forms/widgets/ehp-form.php:879
+msgid "Time"
+msgstr "Thời gian"
+
+#: modules/forms/classes/form-record.php:171
+#: modules/forms/widgets/ehp-form.php:878
+msgid "Date"
+msgstr "Ngày"
+
+#: modules/forms/widgets/ehp-form.php:864
+msgid "Meta Data"
+msgstr "Dữ liệu Meta"
+
+#: modules/forms/widgets/ehp-form.php:847
+msgid "Bcc"
+msgstr "Bcc"
+
+#: modules/forms/widgets/ehp-form.php:830
+msgid "Cc"
+msgstr "Cc"
+
+#: modules/forms/widgets/ehp-form.php:818
+msgid "Reply-To"
+msgstr "Trả lời đến"
+
+#: modules/forms/widgets/ehp-form.php:802
+msgid "From Name"
+msgstr "Tên người gửi"
+
+#: modules/forms/widgets/ehp-form.php:786
+msgid "From Email"
+msgstr "Email người gửi"
+
+#. translators: %s: The [all-fields] shortcode.
+#: modules/forms/widgets/ehp-form.php:771
+msgid "By default, all form fields are sent via %s shortcode. To customize sent fields, copy the shortcode that appears inside each field and paste it above."
+msgstr "Theo mặc định, tất cả các trường biểu mẫu được gửi qua shortcode %s. Để tùy chỉnh các trường được gửi, hãy sao chép shortcode xuất hiện bên trong mỗi trường và dán nó ở phía trên."
+
+#: classes/ehp-social-platforms.php:243 modules/forms/widgets/ehp-form.php:550
+#: modules/forms/widgets/ehp-form.php:551
+#: modules/forms/widgets/ehp-form.php:762
+msgid "Message"
+msgstr "Nội dung tin nhắn"
+
+#: classes/ehp-social-platforms.php:227 modules/forms/widgets/ehp-form.php:744
+msgid "Subject"
+msgstr "Tiêu đề"
+
+#. translators: %s: Site title.
+#: modules/forms/actions/email.php:54 modules/forms/widgets/ehp-form.php:739
+msgid "New message from [%s]"
+msgstr "Tin nhắn mới từ [%s]"
+
+#: modules/forms/widgets/ehp-form.php:730
+#: modules/forms/widgets/ehp-form.php:836
+#: modules/forms/widgets/ehp-form.php:853
+msgid "Separate emails with commas"
+msgstr "Phân tách các email bằng dấu phẩy"
+
+#: modules/forms/widgets/ehp-form.php:722
+msgid "To"
+msgstr "Đến"
+
+#: classes/ehp-social-platforms.php:190 classes/ehp-social-platforms.php:207
+#: modules/content/widgets/contact.php:442 modules/forms/actions/email.php:21
+#: modules/forms/widgets/ehp-form.php:252
+#: modules/forms/widgets/ehp-form.php:543
+#: modules/forms/widgets/ehp-form.php:544
+msgid "Email"
+msgstr "Email"
+
+#: modules/forms/widgets/ehp-form.php:364
+#: modules/forms/widgets/ehp-form.php:402
+msgid "Rows"
+msgstr "Hàng"
+
+#: modules/content/widgets/contact.php:1734
+#: modules/content/widgets/flex-hero.php:692
+#: modules/forms/widgets/ehp-form.php:2205
+msgid "Gap"
+msgstr "Khoảng cách"
+
+#: modules/content/widgets/contact.php:1220
+#: modules/content/widgets/contact.php:1377
+#: modules/content/widgets/zig-zag.php:425
+msgid "Icon Size"
+msgstr "Kích thước biểu tượng"
+
+#: modules/content/widgets/zig-zag.php:394
+msgid "Box Width"
+msgstr "Chiều rộng hộp"
+
+#: modules/content/widgets/zig-zag.php:303
+msgid "Zigzag content will be stacked on smaller screens"
+msgstr "Nội dung zigzag sẽ được xếp chồng lên các trang nhỏ hơn."
+
+#: modules/forms/widgets/ehp-form.php:1106
+msgid "Right"
+msgstr "Phải"
+
+#: modules/forms/widgets/ehp-form.php:1098
+msgid "Left"
+msgstr "Trái"
+
+#: modules/content/widgets/zig-zag.php:290
+msgid "Align First Graphic"
+msgstr "Căn chỉnh hình ảnh đầu tiên"
+
+#: modules/content/widgets/zig-zag.php:266
+msgid "Your Perfect Match"
+msgstr "Sự lựa chọn hoàn hảo của bạn"
+
+#: modules/content/widgets/zig-zag.php:262
+msgid "Join Our Community"
+msgstr "Tham gia cộng đồng của chúng tôi"
+
+#: modules/content/widgets/zig-zag.php:258
+msgid "Award-winning  studio"
+msgstr "Studio đoạt giải thưởng"
+
+#: modules/content/widgets/zig-zag.php:219
+msgid "Learn More"
+msgstr "Tìm hiểu thêm"
+
+#: modules/content/widgets/zig-zag.php:198
+msgid "Unlock the full potential of social media with our expert strategies and proven techniques. Let us guide you towards success in the online world and make your brand shine on every platform."
+msgstr "Khơi mở tiềm năng đầy đủ của mạng xã hội với các chiến lược chuyên gia và kỹ thuật đã được chứng minh của chúng tôi. Hãy để chúng tôi hướng dẫn bạn đến thành công trong thế giới trực tuyến và làm cho thương hiệu của bạn tỏa sáng trên mọi nền tảng."
+
+#: modules/content/widgets/zig-zag.php:185
+msgid "Type your title here"
+msgstr "Nhập tiêu đề của bạn ở đây"
+
+#: modules/content/widgets/zig-zag.php:183
+#: modules/content/widgets/zig-zag.php:254
+msgid "Social media done right"
+msgstr "Mạng xã hội đúng cách"
+
+#: modules/content/widgets/zig-zag.php:181
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: modules/content/widgets/zig-zag.php:129
+msgid "Title HTML Tag"
+msgstr "Thẻ HTML tiêu đề"
+
+#: modules/content/widgets/zig-zag.php:105
+msgid "Graphic Element"
+msgstr "Yếu tố đồ họa"
+
+#: modules/content/widgets/zig-zag.php:97
+msgid "Zigzags"
+msgstr "Zigzags"
+
+#: modules/content/widgets/zig-zag.php:45
+msgid "Zigzag"
+msgstr "Zigzag"
+
+#: classes/ehp-image.php:247
+msgid "Bottom Right"
+msgstr "Góc dưới bên phải"
+
+#: classes/ehp-image.php:246
+msgid "Bottom Left"
+msgstr "Góc dưới bên trái"
+
+#: classes/ehp-image.php:245
+msgid "Bottom Center"
+msgstr "Giữa phía dưới"
+
+#: classes/ehp-image.php:244
+msgid "Top Right"
+msgstr "Góc trên bên phải"
+
+#: classes/ehp-image.php:243
+msgid "Top Left"
+msgstr "Góc trên bên trái"
+
+#: classes/ehp-image.php:242
+msgid "Top Center"
+msgstr "Giữa phía trên"
+
+#: classes/ehp-image.php:241
+msgid "Center Right"
+msgstr "Giữa bên phải"
+
+#: classes/ehp-image.php:240
+msgid "Center Left"
+msgstr "Giữa bên trái"
+
+#: classes/ehp-image.php:239
+msgid "Center Center"
+msgstr "Giữa trung tâm"
+
+#: classes/ehp-image.php:131 modules/content/widgets/contact.php:1548
+msgid "Height"
+msgstr "Chiều cao"
+
+#: classes/ehp-image.php:159 classes/ehp-image.php:188
+#: modules/content/widgets/contact.php:1527 modules/content/widgets/cta.php:511
+#: modules/template-parts/widgets/ehp-header.php:1361
+msgid "Width"
+msgstr "Chiều rộng"
+
+#: modules/content/widgets/contact.php:661 modules/content/widgets/cta.php:362
+#: modules/content/widgets/flex-hero.php:298
+#: modules/content/widgets/hero.php:202 modules/content/widgets/zig-zag.php:310
+#: modules/forms/widgets/ehp-form.php:1066
+msgid "Content Position"
+msgstr "Vị trí nội dung"
+
+#: modules/content/widgets/flex-hero.php:434
+#: modules/content/widgets/hero.php:194 modules/forms/widgets/ehp-form.php:262
+msgid "Content"
+msgstr "Nội dung"
+
+#: classes/ehp-image.php:97
+msgid "Choose Image"
+msgstr "Chọn ảnh"
+
+#: modules/content/widgets/cta.php:142 modules/content/widgets/cta.php:398
+#: modules/content/widgets/flex-hero.php:252
+#: modules/content/widgets/flex-hero.php:562
+#: modules/content/widgets/hero.php:179 modules/content/widgets/hero.php:384
+#: modules/content/widgets/zig-zag.php:109
+#: modules/content/widgets/zig-zag.php:169
+#: modules/content/widgets/zig-zag.php:360
+#: modules/forms/widgets/ehp-form.php:234
+#: modules/forms/widgets/ehp-form.php:1403
+msgid "Image"
+msgstr "Ảnh"
+
+#: modules/content/widgets/hero.php:168
+msgid "Contact us"
+msgstr "Đặt lịch ngay"
+
+#: modules/content/widgets/hero.php:135
+msgid "Schedule a free consultation with our team and let’s make things happen!"
+msgstr "Chọn lịch tư vấn miễn phí với đội ngũ của chúng tôi và cùng nhau biến điều đó thành hiện thực!"
+
+#: modules/content/widgets/contact.php:397
+#: modules/content/widgets/contact.php:482
+#: modules/content/widgets/contact.php:516
+#: modules/content/widgets/contact.php:1022
+#: modules/content/widgets/flex-hero.php:207
+#: modules/content/widgets/flex-hero.php:509
+#: modules/content/widgets/hero.php:132 modules/content/widgets/hero.php:295
+msgid "Subheading"
+msgstr "Tiêu đề phụ"
+
+#: modules/content/widgets/flex-hero.php:143
+#: modules/content/widgets/hero.php:102 modules/content/widgets/hero.php:136
+#: modules/content/widgets/zig-zag.php:199
+msgid "Type your description here"
+msgstr "Nhập mô tả của bạn ở đây"
+
+#: modules/content/widgets/hero.php:101
+msgid "360 digital marketing agency that gets results"
+msgstr "Đại lý tiếp thị số 360 mang lại kết quả"
+
+#: modules/content/widgets/hero.php:36
+msgid "Hero"
+msgstr "Hero"
+
+#: classes/ehp-full-height.php:67 modules/content/widgets/hero.php:492
+msgid "Apply Full Screen Height on"
+msgstr "Sử dụng chiều cao toàn màn hình"
+
+#: classes/ehp-full-height.php:50 modules/content/widgets/hero.php:475
+msgid "Full Screen Height"
+msgstr "Chiều cao toàn màn hình"
+
+#: modules/content/widgets/contact.php:1709 modules/content/widgets/cta.php:641
+#: modules/content/widgets/flex-hero.php:653
+#: modules/content/widgets/hero.php:430 modules/forms/widgets/ehp-form.php:2174
+#: modules/template-parts/widgets/ehp-header.php:1201
+msgid "Element Spacing"
+msgstr "Khoảng cách giữa các phần tử"
+
+#: modules/content/widgets/contact.php:742 modules/content/widgets/cta.php:309
+#: modules/content/widgets/flex-hero.php:395
+#: modules/content/widgets/zig-zag.php:336
+#: modules/forms/widgets/ehp-form.php:1135
+msgid "Content Width"
+msgstr "Chiều rộng nội dung"
+
+#: modules/content/widgets/contact.php:1652 modules/content/widgets/cta.php:570
+#: modules/content/widgets/flex-hero.php:585
+#: modules/content/widgets/hero.php:407 modules/content/widgets/zig-zag.php:561
+#: modules/content/widgets/zig-zag.php:971
+#: modules/forms/widgets/ehp-form.php:2108
+#: modules/template-parts/widgets/ehp-footer.php:843
+#: modules/template-parts/widgets/ehp-footer.php:852
+#: modules/template-parts/widgets/ehp-header.php:1175
+msgid "Background"
+msgstr "Nền"
+
+#: modules/content/widgets/contact.php:1644 modules/content/widgets/cta.php:562
+#: modules/content/widgets/flex-hero.php:577
+#: modules/content/widgets/hero.php:399 modules/content/widgets/zig-zag.php:553
+#: modules/forms/widgets/ehp-form.php:2100
+#: modules/template-parts/widgets/ehp-footer.php:835
+#: modules/template-parts/widgets/ehp-header.php:1167
+msgid "Box"
+msgstr "Hộp"
+
+#: classes/ehp-padding.php:60 modules/content/widgets/zig-zag.php:1004
+#: modules/forms/widgets/ehp-form.php:2006
+#: modules/forms/widgets/ehp-form.php:2314
+msgid "Padding"
+msgstr "Padding"
+
+#: classes/ehp-shapes.php:31
+msgid "Rounded"
+msgstr "Bo tròn"
+
+#: classes/ehp-shapes.php:32
+msgid "Round"
+msgstr "Tròn"
+
+#: classes/ehp-shapes.php:30
+msgid "Sharp"
+msgstr "Sắc nét"
+
+#: classes/ehp-image.php:238 classes/ehp-shapes.php:29
+#: modules/content/widgets/cta.php:514 modules/content/widgets/cta.php:536
+#: modules/template-parts/widgets/ehp-footer.php:484
+#: modules/template-parts/widgets/ehp-footer.php:938
+#: modules/template-parts/widgets/ehp-footer.php:958
+#: modules/template-parts/widgets/ehp-header.php:564
+#: modules/template-parts/widgets/ehp-header.php:601
+#: modules/template-parts/widgets/ehp-header.php:675
+#: modules/template-parts/widgets/ehp-header.php:712
+#: modules/template-parts/widgets/ehp-header.php:1153
+msgid "Default"
+msgstr "Mặc định"
+
+#: classes/ehp-shapes.php:112 classes/ehp-shapes.php:124
+#: modules/forms/widgets/ehp-form.php:1688
+msgid "Shape"
+msgstr "Hình dạng"
+
+#: classes/ehp-button.php:596 classes/ehp-image.php:305
+#: modules/content/widgets/contact.php:1609
+#: modules/content/widgets/contact.php:1798 modules/content/widgets/cta.php:711
+#: modules/content/widgets/flex-hero.php:770
+#: modules/content/widgets/zig-zag.php:411
+#: modules/content/widgets/zig-zag.php:907
+#: modules/content/widgets/zig-zag.php:954
+#: modules/forms/widgets/ehp-form.php:2283
+#: modules/template-parts/widgets/ehp-footer.php:906
+#: modules/template-parts/widgets/ehp-header.php:846
+#: modules/template-parts/widgets/ehp-header.php:1020
+#: modules/template-parts/widgets/ehp-header.php:1043
+#: modules/template-parts/widgets/ehp-header.php:1274
+#: modules/template-parts/widgets/ehp-widget-base.php:482
+msgid "Color"
+msgstr "Màu sắc"
+
+#: classes/ehp-button.php:570 classes/ehp-image.php:279
+#: modules/content/widgets/contact.php:1583
+#: modules/content/widgets/contact.php:1772 modules/content/widgets/cta.php:685
+#: modules/content/widgets/flex-hero.php:744
+#: modules/content/widgets/zig-zag.php:879
+#: modules/forms/widgets/ehp-form.php:1640
+#: modules/forms/widgets/ehp-form.php:1945
+#: modules/forms/widgets/ehp-form.php:2257
+#: modules/template-parts/widgets/ehp-footer.php:880
+#: modules/template-parts/widgets/ehp-header.php:1248
+#: modules/template-parts/widgets/ehp-widget-base.php:444
+msgid "Border Width"
+msgstr "Độ rộng viền"
+
+#: classes/ehp-button.php:557 classes/ehp-full-height.php:53
+#: classes/ehp-image.php:122 classes/ehp-image.php:269
+#: modules/content/widgets/contact.php:1518
+#: modules/content/widgets/contact.php:1573
+#: modules/content/widgets/contact.php:1762 modules/content/widgets/cta.php:675
+#: modules/content/widgets/flex-hero.php:734
+#: modules/content/widgets/hero.php:478 modules/content/widgets/zig-zag.php:734
+#: modules/content/widgets/zig-zag.php:774
+#: modules/content/widgets/zig-zag.php:866
+#: modules/content/widgets/zig-zag.php:941
+#: modules/content/widgets/zig-zag.php:974
+#: modules/content/widgets/zig-zag.php:1007
+#: modules/content/widgets/zig-zag.php:1041
+#: modules/forms/widgets/ehp-form.php:678
+#: modules/forms/widgets/ehp-form.php:925
+#: modules/forms/widgets/ehp-form.php:986
+#: modules/forms/widgets/ehp-form.php:1630
+#: modules/forms/widgets/ehp-form.php:1935
+#: modules/forms/widgets/ehp-form.php:2247
+#: modules/template-parts/widgets/ehp-footer.php:870
+#: modules/template-parts/widgets/ehp-header.php:308
+#: modules/template-parts/widgets/ehp-header.php:323
+#: modules/template-parts/widgets/ehp-header.php:836
+#: modules/template-parts/widgets/ehp-header.php:1238
+#: modules/template-parts/widgets/ehp-header.php:1327
+#: modules/template-parts/widgets/ehp-header.php:1421
+#: modules/template-parts/widgets/ehp-header.php:1500
+#: modules/template-parts/widgets/ehp-header.php:1619
+#: modules/template-parts/widgets/ehp-header.php:1657
+#: modules/template-parts/widgets/ehp-widget-base.php:431
+msgid "No"
+msgstr "Không"
+
+#: classes/ehp-button.php:556 classes/ehp-full-height.php:52
+#: classes/ehp-image.php:121 classes/ehp-image.php:268
+#: modules/content/widgets/contact.php:1517
+#: modules/content/widgets/contact.php:1572
+#: modules/content/widgets/contact.php:1761 modules/content/widgets/cta.php:674
+#: modules/content/widgets/flex-hero.php:733
+#: modules/content/widgets/hero.php:477 modules/content/widgets/zig-zag.php:733
+#: modules/content/widgets/zig-zag.php:773
+#: modules/content/widgets/zig-zag.php:865
+#: modules/content/widgets/zig-zag.php:940
+#: modules/content/widgets/zig-zag.php:973
+#: modules/content/widgets/zig-zag.php:1006
+#: modules/content/widgets/zig-zag.php:1040
+#: modules/forms/widgets/ehp-form.php:677
+#: modules/forms/widgets/ehp-form.php:924
+#: modules/forms/widgets/ehp-form.php:985
+#: modules/forms/widgets/ehp-form.php:1629
+#: modules/forms/widgets/ehp-form.php:1934
+#: modules/forms/widgets/ehp-form.php:2246
+#: modules/template-parts/widgets/ehp-footer.php:869
+#: modules/template-parts/widgets/ehp-header.php:307
+#: modules/template-parts/widgets/ehp-header.php:322
+#: modules/template-parts/widgets/ehp-header.php:835
+#: modules/template-parts/widgets/ehp-header.php:1237
+#: modules/template-parts/widgets/ehp-header.php:1326
+#: modules/template-parts/widgets/ehp-header.php:1420
+#: modules/template-parts/widgets/ehp-header.php:1499
+#: modules/template-parts/widgets/ehp-header.php:1618
+#: modules/template-parts/widgets/ehp-header.php:1656
+#: modules/template-parts/widgets/ehp-widget-base.php:430
+msgid "Yes"
+msgstr "Có"
+
+#: classes/ehp-button.php:554 classes/ehp-image.php:266
+#: modules/content/widgets/contact.php:1570
+#: modules/content/widgets/contact.php:1759 modules/content/widgets/cta.php:672
+#: modules/content/widgets/flex-hero.php:731
+#: modules/content/widgets/zig-zag.php:863
+#: modules/forms/widgets/ehp-form.php:1626
+#: modules/forms/widgets/ehp-form.php:1931
+#: modules/forms/widgets/ehp-form.php:2244
+#: modules/template-parts/widgets/ehp-footer.php:867
+#: modules/template-parts/widgets/ehp-header.php:1235
+#: modules/template-parts/widgets/ehp-widget-base.php:428
+msgid "Border"
+msgstr "Viền"
+
+#: classes/ehp-button.php:541 modules/content/widgets/contact.php:1207
+#: modules/content/widgets/contact.php:1364
+#: modules/template-parts/widgets/ehp-footer.php:545
+#: modules/template-parts/widgets/ehp-footer.php:707
+#: modules/template-parts/widgets/ehp-header.php:1057
+#: modules/template-parts/widgets/ehp-widget-base.php:413
+msgid "Hover Animation"
+msgstr "Hiệu ứng động di chuột"
+
+#: classes/ehp-button.php:495 modules/content/widgets/contact.php:1169
+#: modules/content/widgets/contact.php:1341
+#: modules/content/widgets/zig-zag.php:827
+#: modules/forms/widgets/ehp-form.php:1875
+#: modules/template-parts/widgets/ehp-footer.php:524
+#: modules/template-parts/widgets/ehp-footer.php:686
+#: modules/template-parts/widgets/ehp-header.php:508
+#: modules/template-parts/widgets/ehp-header.php:1036
+#: modules/template-parts/widgets/ehp-widget-base.php:336
+msgid "Hover"
+msgstr "Di chuột"
+
+#: classes/ehp-button.php:447 modules/content/widgets/contact.php:1129
+#: modules/content/widgets/contact.php:1316
+#: modules/content/widgets/zig-zag.php:685
+#: modules/content/widgets/zig-zag.php:793
+#: modules/forms/widgets/ehp-form.php:1829
+#: modules/template-parts/widgets/ehp-footer.php:501
+#: modules/template-parts/widgets/ehp-footer.php:663
+#: modules/template-parts/widgets/ehp-header.php:485
+#: modules/template-parts/widgets/ehp-header.php:922
+#: modules/template-parts/widgets/ehp-header.php:1013
+#: modules/template-parts/widgets/ehp-widget-base.php:299
+msgid "Normal"
+msgstr "Bình thường"
+
+#: classes/ehp-button.php:416 modules/forms/widgets/ehp-form.php:1797
+msgid "Icon Spacing"
+msgstr "Khoảng cách biểu tượng"
+
+#: classes/ehp-button.php:388 modules/forms/widgets/ehp-form.php:1768
+msgid "Icon Position"
+msgstr "Vị trí biểu tượng"
+
+#: classes/ehp-button.php:366 modules/forms/widgets/ehp-form.php:593
+#: modules/forms/widgets/ehp-form.php:1707
+#: modules/forms/widgets/ehp-form.php:1718
+msgid "Button"
+msgstr "Nút"
+
+#: classes/ehp-button.php:362 modules/content/widgets/contact.php:367
+#: modules/forms/widgets/ehp-form.php:268
+#: modules/forms/widgets/ehp-form.php:1715
+msgid "Type"
+msgstr "Kiểu"
+
+#: classes/ehp-button.php:285
+msgid "Space Between"
+msgstr "Khoảng cách"
+
+#: classes/ehp-button.php:398 modules/content/widgets/contact.php:641
+#: modules/content/widgets/contact.php:860
+#: modules/content/widgets/contact.php:887 modules/content/widgets/cta.php:287
+#: modules/content/widgets/cta.php:345 modules/content/widgets/cta.php:374
+#: modules/content/widgets/cta.php:537
+#: modules/content/widgets/flex-hero.php:284
+#: modules/content/widgets/flex-hero.php:337
+#: modules/content/widgets/hero.php:214 modules/content/widgets/zig-zag.php:298
+#: modules/content/widgets/zig-zag.php:322
+#: modules/forms/widgets/ehp-form.php:1012
+#: modules/forms/widgets/ehp-form.php:1045
+#: modules/forms/widgets/ehp-form.php:1740
+#: modules/forms/widgets/ehp-form.php:1777
+#: modules/template-parts/widgets/ehp-header.php:451
+msgid "End"
+msgstr "Kết thúc"
+
+#: modules/content/widgets/hero.php:263 modules/content/widgets/hero.php:329
+#: modules/template-parts/widgets/ehp-footer.php:932
+msgid "Text Width"
+msgstr "Chiều rộng văn bản"
+
+#: classes/ehp-button.php:455 classes/ehp-button.php:503
+#: modules/content/widgets/contact.php:926
+#: modules/content/widgets/contact.php:960
+#: modules/content/widgets/contact.php:1031
+#: modules/content/widgets/contact.php:1152
+#: modules/content/widgets/contact.php:1192
+#: modules/content/widgets/contact.php:1289 modules/content/widgets/cta.php:437
+#: modules/content/widgets/cta.php:471
+#: modules/content/widgets/flex-hero.php:450
+#: modules/content/widgets/flex-hero.php:484
+#: modules/content/widgets/flex-hero.php:518
+#: modules/content/widgets/hero.php:238 modules/content/widgets/hero.php:304
+#: modules/content/widgets/zig-zag.php:465
+#: modules/content/widgets/zig-zag.php:499
+#: modules/content/widgets/zig-zag.php:731
+#: modules/content/widgets/zig-zag.php:800
+#: modules/content/widgets/zig-zag.php:834
+#: modules/forms/widgets/ehp-form.php:1309
+#: modules/forms/widgets/ehp-form.php:1342
+#: modules/forms/widgets/ehp-form.php:1519
+#: modules/forms/widgets/ehp-form.php:1588
+#: modules/forms/widgets/ehp-form.php:1836
+#: modules/forms/widgets/ehp-form.php:1882
+#: modules/template-parts/widgets/ehp-footer.php:445
+#: modules/template-parts/widgets/ehp-footer.php:566
+#: modules/template-parts/widgets/ehp-footer.php:612
+#: modules/template-parts/widgets/ehp-footer.php:670
+#: modules/template-parts/widgets/ehp-footer.php:693
+#: modules/template-parts/widgets/ehp-footer.php:770
+#: modules/template-parts/widgets/ehp-footer.php:805
+#: modules/template-parts/widgets/ehp-header.php:492
+#: modules/template-parts/widgets/ehp-header.php:515
+#: modules/template-parts/widgets/ehp-header.php:626
+#: modules/template-parts/widgets/ehp-widget-base.php:306
+#: modules/template-parts/widgets/ehp-widget-base.php:343
+msgid "Text Color"
+msgstr "Màu văn bản"
+
+#: modules/content/widgets/contact.php:637
+#: modules/content/widgets/contact.php:669
+#: modules/content/widgets/contact.php:700 modules/content/widgets/cta.php:256
+#: modules/content/widgets/cta.php:370
+#: modules/content/widgets/flex-hero.php:306
+#: modules/content/widgets/flex-hero.php:333
+#: modules/content/widgets/flex-hero.php:364
+#: modules/content/widgets/hero.php:210 modules/content/widgets/zig-zag.php:318
+#: modules/forms/widgets/ehp-form.php:1041
+#: modules/forms/widgets/ehp-form.php:1075
+#: modules/forms/widgets/ehp-form.php:1102
+#: modules/forms/widgets/ehp-form.php:1736
+#: modules/template-parts/widgets/ehp-header.php:819
+msgid "Center"
+msgstr "Giữa"
+
+#: classes/ehp-button.php:394 modules/content/widgets/contact.php:633
+#: modules/content/widgets/contact.php:665
+#: modules/content/widgets/contact.php:696
+#: modules/content/widgets/contact.php:856
+#: modules/content/widgets/contact.php:883 modules/content/widgets/cta.php:252
+#: modules/content/widgets/cta.php:283 modules/content/widgets/cta.php:341
+#: modules/content/widgets/cta.php:366
+#: modules/content/widgets/flex-hero.php:280
+#: modules/content/widgets/flex-hero.php:302
+#: modules/content/widgets/flex-hero.php:329
+#: modules/content/widgets/flex-hero.php:360
+#: modules/content/widgets/hero.php:206 modules/content/widgets/zig-zag.php:294
+#: modules/content/widgets/zig-zag.php:314
+#: modules/forms/widgets/ehp-form.php:1008
+#: modules/forms/widgets/ehp-form.php:1037
+#: modules/forms/widgets/ehp-form.php:1071
+#: modules/forms/widgets/ehp-form.php:1732
+#: modules/forms/widgets/ehp-form.php:1773
+#: modules/template-parts/widgets/ehp-header.php:447
+#: modules/template-parts/widgets/ehp-header.php:815
+msgid "Start"
+msgstr "Bắt đầu"
+
+#: classes/ehp-image.php:232 modules/content/widgets/cta.php:533
+#: modules/forms/widgets/ehp-form.php:1728
+msgid "Position"
+msgstr "Vị trí"
+
+#: classes/ehp-button.php:221 modules/forms/widgets/ehp-form.php:186
+msgid "Contact Us"
+msgstr "Liên hệ với chúng tôi"
+
+#: classes/ehp-button.php:209 modules/content/widgets/contact.php:349
+#: modules/forms/widgets/ehp-form.php:565
+#: modules/forms/widgets/ehp-form.php:578
+msgid "Hide"
+msgstr "Ẩn"
+
+#: classes/ehp-button.php:208 modules/content/widgets/contact.php:348
+#: modules/forms/widgets/ehp-form.php:564
+#: modules/forms/widgets/ehp-form.php:577
+#: modules/template-parts/widgets/ehp-header.php:305
+#: modules/template-parts/widgets/ehp-header.php:320
+msgid "Show"
+msgstr "Hiện"
+
+#: classes/ehp-button.php:206 classes/ehp-button.php:331
+msgid "Secondary CTA"
+msgstr "CTA phụ"
+
+#: classes/ehp-button.php:195 classes/ehp-button.php:248
+#: classes/ehp-social-platforms.php:133 modules/content/widgets/contact.php:547
+#: modules/content/widgets/zig-zag.php:113
+#: modules/content/widgets/zig-zag.php:155
+#: modules/content/widgets/zig-zag.php:240
+#: modules/content/widgets/zig-zag.php:383
+#: modules/forms/widgets/ehp-form.php:631
+#: modules/template-parts/widgets/ehp-footer.php:174
+#: modules/template-parts/widgets/ehp-header.php:985
+msgid "Icon"
+msgstr "Biểu tượng"
+
+#: classes/ehp-button.php:184 classes/ehp-button.php:234
+#: classes/ehp-button.php:367 classes/ehp-social-platforms.php:300
+#: classes/ehp-social-platforms.php:322 classes/ehp-social-platforms.php:344
+#: modules/content/widgets/contact.php:559
+#: modules/content/widgets/zig-zag.php:229
+#: modules/forms/widgets/ehp-form.php:1719
+#: modules/template-parts/widgets/ehp-footer.php:186
+msgid "Link"
+msgstr "Liên kết"
+
+#: classes/ehp-button.php:148
+msgid "Schedule Now"
+msgstr "Lên lịch ngay"
+
+#: classes/ehp-button.php:163 classes/ehp-button.php:331
+msgid "Primary CTA"
+msgstr "CTA chính"
+
+#: classes/ehp-button.php:154 modules/content/widgets/cta.php:500
+#: modules/content/widgets/flex-hero.php:547
+#: modules/content/widgets/hero.php:365 modules/content/widgets/zig-zag.php:209
+#: modules/content/widgets/zig-zag.php:528
+#: modules/content/widgets/zig-zag.php:771
+msgid "CTA Button"
+msgstr "Nút CTA"
+
+#: modules/content/widgets/cta.php:205
+msgid "Schedule a free consultation with our team and let's make things happen!"
+msgstr "Lên lịch tư vấn miễn phí với đội ngũ của chúng tôi và hãy cùng nhau tạo nên những điều tuyệt vời!"
+
+#: modules/content/widgets/contact.php:197
+#: modules/content/widgets/contact.php:951 modules/content/widgets/cta.php:202
+#: modules/content/widgets/cta.php:462 modules/content/widgets/zig-zag.php:195
+#: modules/content/widgets/zig-zag.php:490
+#: modules/forms/widgets/ehp-form.php:217
+#: modules/forms/widgets/ehp-form.php:1334
+#: modules/template-parts/widgets/ehp-footer.php:117
+#: modules/template-parts/widgets/ehp-footer.php:436
+msgid "Description"
+msgstr "Mô tả"
+
+#: modules/content/widgets/contact.php:177
+#: modules/content/widgets/contact.php:211 modules/content/widgets/cta.php:182
+#: modules/content/widgets/cta.php:216
+#: modules/content/widgets/flex-hero.php:153
+#: modules/content/widgets/flex-hero.php:187
+#: modules/content/widgets/flex-hero.php:221
+#: modules/content/widgets/hero.php:112 modules/content/widgets/hero.php:146
+#: modules/template-parts/widgets/ehp-footer.php:131
+#: modules/template-parts/widgets/ehp-footer.php:245
+#: modules/template-parts/widgets/ehp-footer.php:290
+#: modules/template-parts/widgets/ehp-footer.php:372
+#: modules/template-parts/widgets/ehp-footer.php:404
+#: modules/template-parts/widgets/ehp-widget-base.php:200
+msgid "HTML Tag"
+msgstr "Thẻ HTML"
+
+#: classes/ehp-social-platforms.php:177 modules/content/widgets/contact.php:167
+#: modules/content/widgets/contact.php:201
+#: modules/content/widgets/contact.php:400
+#: modules/content/widgets/contact.php:485
+#: modules/content/widgets/contact.php:501
+#: modules/content/widgets/contact.php:519
+#: modules/content/widgets/contact.php:537 modules/content/widgets/cta.php:172
+#: modules/content/widgets/cta.php:206
+#: modules/content/widgets/flex-hero.php:177
+#: modules/content/widgets/flex-hero.php:211
+#: modules/template-parts/widgets/ehp-footer.php:121
+#: modules/template-parts/widgets/ehp-footer.php:163
+#: modules/template-parts/widgets/ehp-footer.php:234
+#: modules/template-parts/widgets/ehp-footer.php:279
+#: modules/template-parts/widgets/ehp-footer.php:362
+#: modules/template-parts/widgets/ehp-footer.php:394
+msgid "Type your text here"
+msgstr "Nhập văn bản của bạn ở đây"
+
+#: modules/content/widgets/cta.php:171
+msgid "Ready to take your business to the next level?"
+msgstr "Sẵn sàng đưa doanh nghiệp của bạn lên tầm cao mới?"
+
+#: modules/content/widgets/contact.php:163
+#: modules/content/widgets/contact.php:917 modules/content/widgets/cta.php:168
+#: modules/content/widgets/cta.php:429
+#: modules/content/widgets/flex-hero.php:173
+#: modules/content/widgets/flex-hero.php:475
+#: modules/content/widgets/hero.php:98 modules/content/widgets/hero.php:230
+#: modules/content/widgets/zig-zag.php:457
+#: modules/forms/widgets/ehp-form.php:184
+#: modules/forms/widgets/ehp-form.php:1301
+#: modules/template-parts/widgets/ehp-footer.php:275
+#: modules/template-parts/widgets/ehp-footer.php:358
+msgid "Heading"
+msgstr "Tiêu đề"
+
+#: classes/ehp-button.php:172 classes/ehp-button.php:219
+#: modules/content/widgets/contact.php:155
+#: modules/content/widgets/contact.php:371
+#: modules/content/widgets/contact.php:498
+#: modules/content/widgets/contact.php:909
+#: modules/content/widgets/contact.php:1267 modules/content/widgets/cta.php:160
+#: modules/content/widgets/cta.php:421
+#: modules/content/widgets/flex-hero.php:131
+#: modules/content/widgets/hero.php:90 modules/content/widgets/zig-zag.php:217
+#: modules/content/widgets/zig-zag.php:449
+#: modules/forms/widgets/ehp-form.php:177
+#: modules/forms/widgets/ehp-form.php:251
+#: modules/forms/widgets/ehp-form.php:1293
+msgid "Text"
+msgstr "Văn bản"
+
+#: modules/content/widgets/cta.php:42
+msgid "CTA"
+msgstr "CTA"
+
+#: classes/widget-utils.php:20
+msgid "Desktop"
+msgstr "Máy tính để bàn"
+
+#: modules/admin/components/api-controller.php:21
+msgid "Endpoint not found"
+msgstr "Không tìm thấy điểm cuối"
+
+#: modules/admin/classes/onboarding/install-elementor.php:32
+msgid "Elementor activated successfully."
+msgstr "Elementor đã được kích hoạt thành công."
+
+#: modules/admin/classes/menu/pages/setup-wizard.php:57
+#: modules/admin/classes/menu/pages/setup-wizard.php:58
+msgid "Setup Wizard"
+msgstr "Hướng dẫn thiết lập"
+
+#: modules/admin/classes/ajax/setup-wizard.php:40
+msgid "Invalid step."
+msgstr "Bước không hợp lệ."
+
+#: includes/module-base.php:261 includes/module-base.php:272
+msgid "Something went wrong."
+msgstr "Có lỗi xảy ra."
+
+#. Author of the plugin
+#: hello-plus.php
+msgid "Elementor.com"
+msgstr "Elementor.com"
+
+#. Description of the plugin
+#: hello-plus.php
+msgid "Puts the PLUS in Elementor's Hello+ themes"
+msgstr "Đem lại tính năng PLUS cho các chủ đề Hello+ của Elementor"
+
+#. Plugin URI of the plugin
+#: hello-plus.php
+msgid "https://elementor.com"
+msgstr "https://elementor.com"
+
+#. Plugin Name of the plugin
+#: hello-plus.php build/js/helloplus-editor.js:1
+#: modules/template-parts/assets/js/editor/hooks/ui/add-library-tab.js:23
+msgid "Hello Plus"
+msgstr "Hello Plus"

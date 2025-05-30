@@ -1,0 +1,59 @@
+:root {
+	--color-primary: #013660;
+	--default-radius: 10px;
+}
+
+.swiper-slide-inner .swiper-slide-image {
+	border-radius: var(--default-radius);
+}
+
+#content .ast-container {
+	max-width: 100%;
+	padding: 0;
+}
+
+.testimonial-home .wpmslider-viewport {
+	height: 380.406px !important;
+    padding: 10px;
+}
+
+.testimonial-home .testimonial {
+	box-shadow: 0px 0rem 1rem 0px rgba(0, 0, 0, .15);
+	border-radius: 12px;
+}
+
+.testimonial-home .testimonial .testimonial-inner {
+	padding: 10px;
+}
+
+.testimonial-home .testimonial .testimonial-heading {
+	display: -webkit-box;
+	-webkit-line-clamp: 2;
+	-webkit-box-orient: vertical;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	min-height: 62px;
+	margin-bottom: 8px;
+	text-align: center;
+	font-size: 22px;
+}
+
+.testimonial-home .testimonial .testimonial-content .testimonial-image {
+	text-align: center;
+	margin-bottom: 12px;
+}
+
+.testimonial-home .testimonial .testimonial-content .testimonial-image img {
+	border-radius: 50%;
+    object-fit: cover;
+}
+
+.testimonial-home .testimonial .testimonial-content p {
+	min-height: 80px;
+	text-align: center;
+}
+
+.elementor-shortcode .strong-view.controls-style-buttons:not(.rtl) .wpmslider-prev:before,
+.elementor-shortcode .strong-view.controls-style-buttons:not(.rtl) .wpmslider-next:before {
+	background: #000;
+}
