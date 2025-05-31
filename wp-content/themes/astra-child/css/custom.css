@@ -90,7 +90,8 @@
 }
 
 @media (min-width: 767px) {
-	.testimonial-home.strong-view .wpmslider-pager {
+	.testimonial-home.strong-view .wpmslider-pager,
+	.elementor-widget-container .swiper-pagination {
 		display: none;
 	}
 }
@@ -102,7 +103,12 @@
 }
 
 @media (max-width: 767px) {
-	.testimonial-home.strong-view .wpmslider-controls-direction {
+	.elementor-element.elementor-arrows-position-outside .swiper {
+		width: 100% !important;
+	}
+
+	.testimonial-home.strong-view .wpmslider-controls-direction,
+	.elementor-53 .elementor-element.elementor-element-5391e0a .elementor-swiper-button {
 		display: none;
 	}
 
