@@ -85,7 +85,7 @@
 
 @media (min-width: 912px) {
 	#masthead .site-header-primary-section-right .ast-builder-button-wrap {
-		min-width: 122px;
+		min-width: 83px;
 	}
 }
 
@@ -104,5 +104,9 @@
 @media (max-width: 767px) {
 	.testimonial-home.strong-view .wpmslider-controls-direction {
 		display: none;
+	}
+
+	.testimonial-home.strong-view.controls-type-sides-outside {
+		padding: 0 12px;
 	}
 }
