@@ -30,15 +30,15 @@ function custom_enqueue_styles() {
         'custom-script',
         get_stylesheet_directory_uri() . '/js/custom.js',
         array(),
-        filemtime( get_stylesheet_directory() . '/js/custom.js' )
+        filemtime( get_stylesheet_directory() . '/js/custom.js' ),
+        true
     );
 
     wp_enqueue_style(
         'astra-child-custom-widget-css',
         get_stylesheet_directory_uri() . '/css/custom-widget.css',
         array(),
-        '1.0',
-        'all'
+        filemtime( get_stylesheet_directory() . '/css/custom-widget.css' )
     );
 
     wp_enqueue_style('font-awesome');
@@ -54,7 +54,8 @@ function custom_enqueue_styles() {
         'owl-carousel',
         'https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js',
         array(),
-        '2.3.4'
+        '2.3.4',
+        true
     );
 }
 add_action( 'wp_enqueue_scripts', 'custom_enqueue_styles' );
