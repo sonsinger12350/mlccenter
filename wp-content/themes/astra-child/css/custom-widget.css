@@ -20,15 +20,20 @@ footer .widget .widget-title {
 	gap: 4px;
 }
 
-.widget_astra_child_custom_widget_header_icon .header-icon-widget a,
-.widget_astra_child_custom_widget_header_icon .header-icon-widget a:hover {
-    color: #fff;
+.widget_astra_child_custom_widget_header_icon .header-icon-widget span {
+    color: #03b8e6;
+	font-weight: bold;
 }
 
-.widget_astra_child_custom_widget_header_icon .header-icon-widget svg {
-    fill: #fff;
-	width: 16px;
-	height: 16px;
+.widget_astra_child_custom_widget_header_icon .header-icon-widget a,
+.widget_astra_child_custom_widget_header_icon .header-icon-widget a:hover {
+    color: var(--ast-global-color-3);
+	font-weight: bold;
+}
+
+.widget_astra_child_custom_widget_header_icon .header-icon-widget img {
+    width: 25px;
+    height: 25px;
 }
 
 /* End Header Information */
