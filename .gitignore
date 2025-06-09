@@ -2,4 +2,3 @@ wp-config.php
 
 *.log
 /.htaccess
-/wp-content/uploads/*
