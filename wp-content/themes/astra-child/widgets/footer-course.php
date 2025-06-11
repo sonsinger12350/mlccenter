@@ -12,12 +12,12 @@ class Astra_Child_Custom_Widget_Footer_Course extends WP_Widget {
 		public function widget($args, $instance) {
 			echo $args['before_widget'];
 
-			echo '<h4 class="widget-title">Khóa học</h4>';
+			echo '<h4 class="widget-title">'.pll__('Khóa học').'</h4>';
 			echo '<div class="list">
-				<a href="#">Khóa học giao tiếp tiếng anh</a>
-				<a href="#">Khóa học giao tiếp tiếng anh</a>
-				<a href="#">Khóa học giao tiếp tiếng anh</a>
-				<a href="#">Khóa học giao tiếp tiếng anh</a>
+				<a href="#">'.pll__('Khóa học giao tiếp tiếng anh').'</a>
+				<a href="#">'.pll__('Khóa học giao tiếp tiếng anh').'</a>
+				<a href="#">'.pll__('Khóa học giao tiếp tiếng anh').'</a>
+				<a href="#">'.pll__('Khóa học giao tiếp tiếng anh').'</a>
 			</div>';
 
 			echo $args['after_widget'];

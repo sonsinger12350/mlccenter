@@ -30,15 +30,15 @@ class Custom_Elementor_Widget_Events extends \Elementor\Widget_Base {
     }
 
     protected function render() {
-        $settings = $this->get_settings_for_display();
+        $category = pll_current_language() == 'vi' ? 'su-kien' : 'event';
 
 		$args = array(
-			'category_name' => 'su-kien',
+			'category_name' => $category,
 			'posts_per_page' => 6,
 		);
 
 		$query = new WP_Query($args);
-		
+
 		if (empty($query->posts)) return null;
 
 		$output = '<div class="events-widget">';

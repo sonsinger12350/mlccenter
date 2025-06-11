@@ -1,7 +1,4 @@
 <?php
-
-use Elementor\Icons_Manager;
-
 class Astra_Child_Custom_Widget_Header_Icon extends WP_Widget
 {
 	public function __construct()
